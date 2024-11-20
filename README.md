@@ -19,7 +19,7 @@ Este é um projeto em Java que gera números para loteria com base na quantidade
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/DaviPereiraL/GeradorLoteria-JAVA.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
